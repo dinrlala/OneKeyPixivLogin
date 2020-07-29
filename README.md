@@ -1,4 +1,4 @@
-<a href='https://gitee.com/himlaos_misa/OneKeyPixivLogin/stargazers'><img src='https://gitee.com/himlaos_misa/OneKeyPixivLogin/badge/star.svg?theme=gray' alt='star'></img></a>
+<a href="http://epl.eyuyan.com/"><img src="https://img.shields.io/badge/Language-EPL-green.svg" alt="EPL"></a><a href='https://gitee.com/himlaos_misa/OneKeyPixivLogin/stargazers'>img src='https://gitee.com/himlaos_misa/OneKeyPixivLogin/badge/star.svg?theme=gray' alt='star'></img></a>
 
 Pixiv一键允许登陆， 更轻便，更方便，更安全。
 
