@@ -1,3 +1,5 @@
+<a href='https://gitee.com/himlaos_misa/OneKeyPixivLogin/stargazers'><img src='https://gitee.com/himlaos_misa/OneKeyPixivLogin/badge/star.svg?theme=gray' alt='star'></img></a>
+
 Pixiv一键允许登陆， 更轻便，更方便，更安全。
 
 #### 介绍
